@@ -22,7 +22,7 @@
 
 */
 
-#include <math.h>
+#include <cmath>
 #include "Alienwah.h"
 #include <stdio.h>
 
